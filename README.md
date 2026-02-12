@@ -1,4 +1,4 @@
-# Practical 10 – Binary Search (Python)
+# Binary Search (Python)
 
 ## 👨‍🏫 Aim
 To implement the Binary Search algorithm in Python.
